@@ -11,8 +11,7 @@ I'm a Fullstack Developer passionate about building scalable web apps with Node.
 
 ## 📂 Projects
 - [Restaurant API](https://github.com/amorydiaa150-cell/resturant-api) - REST API for restaurant management
-- [Portfolio Website](https://astounding-raindrop-3a655d.netlify.app/) - Personal portfolio
+- [ E-COMMERCE-API]([https://astounding-raindrop-3a655d.netlify.app/](https://github.com/amorydiaa150-cell/nestjs-ecommerce-api)) - Personal portfolio
 
 ## 📫 Contact Me
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- Email: amorydiaa150@gmail.com
