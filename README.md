@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Amory Diaa
 
-<!--
-**amorydiaa150-cell/amorydiaa150-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+I'm a Fullstack Developer passionate about building scalable web apps with Node.js, NestJS, and MongoDB.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
+- **Backend:** Node.js, NestJS, Express
+- **Database:** MongoDB, MySQL
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, VSCode, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [Restaurant API](https://github.com/amorydiaa150-cell/resturant-api) - REST API for restaurant management
+- [Portfolio Website](https://astounding-raindrop-3a655d.netlify.app/) - Personal portfolio
+
+## 📫 Contact Me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
